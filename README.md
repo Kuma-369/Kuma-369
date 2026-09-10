@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandy Yeung</h1>
-<h3 align="center">Aspiring Full-Stack Developer</h3>
+<!-- <h3 align="center">Aspiring Full-Stack Developer</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+JavaScript%2C+HTML+%26+CSS;Building+with+The+Odin+Project;From+GIS+%2B+Python+to+Full-Stack+Dev" alt="Typing SVG" />
@@ -7,15 +7,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Currently a **Teaching Assistant**
-- 🐍 Learned **Python** during university through **GIS** and **GeoPython**
-- 💻 Beginner in **JavaScript, HTML, and CSS**
-- 👩‍💻 Started my coding journey with **Code First Girls (CFG)** in 2026
-- 📚 Currently studying web development through **[The Odin Project](https://www.theodinproject.com/)**
-- 🎯 Goal: becoming a **Full-Stack Developer**
-- 💬 Ask me about: GIS + Python, or my latest Odin Project progress!
+- Learned **Python** during university through **GIS** and **GeoPython**
+- Beginner in **JavaScript, HTML, and CSS**
+- Started my coding journey with **Code First Girls (CFG)** in 2026
+- Currently studying web development through **[The Odin Project](https://www.theodinproject.com/)**
+- Goal: becoming a **Full-Stack Developer**
+- Ask me about: GIS + Python, or my latest Odin Project progress!
 
 ---
 
@@ -32,18 +31,19 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🍲 **Recipe Webpage** | A food recipe page built to practice semantic HTML structure | `HTML` |
-| 🛒 **Shopping Webpage** | A shopping page combining layout and styling fundamentals | `HTML`, `CSS` |
+| **Recipe Webpage** | A food recipe page built to practice semantic HTML structure | `HTML` |
+| **Landing Webpage** | A shopping page combining layout and styling fundamentals | `HTML`, `CSS` |
+| **Rock, Paper, and Scissors Game** | A mini game play in the web console | `Java Script` |
 
 > More projects coming soon as I progress through The Odin Project curriculum!
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kuma-369&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 `JavaScript` → `DOM Manipulation` → `Full-Stack Fundamentals`
 
