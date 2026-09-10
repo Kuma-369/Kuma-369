@@ -54,15 +54,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuma-369&theme=tokyonight&hide_border=true" />
 </p>
 
----
+?
 
-### Currently Learning
-
-`JavaScript` → `DOM Manipulation` → `Full-Stack Fundamentals`
-
----
-
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kyy-mandy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
